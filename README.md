@@ -1,1 +1,2 @@
-# vrconceptpractice
+# VRConceptPractice
+Мы команда А!
